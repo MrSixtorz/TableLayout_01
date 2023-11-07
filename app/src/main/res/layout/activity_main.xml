@@ -35,7 +35,6 @@
             android:layout_span="3"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
-            android:src="@tools:sample/avatars"
             app:srcCompat="@drawable/verde" />
     </TableRow>
 
